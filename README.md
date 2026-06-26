@@ -39,6 +39,16 @@ python hand_tracker.py
 - Thumb + Ring → Zoom Out
 - Thumb ↔ Index Distance → Volume Control
 
+  
+## Future Improvements
+
+- Right Click Gesture
+- Scroll Control
+- Virtual Keyboard
+- Brightness Control
+- Screenshot Gesture
+
+  
 ## Author
 
 Amaan Raza
